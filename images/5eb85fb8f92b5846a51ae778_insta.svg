@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="24" height="24" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="_5eb85fb8f92b5846a51ae778_insta" data-name="5eb85fb8f92b5846a51ae778_insta" clip-path="url(#clip-path)">
+    <path id="Path_7" data-name="Path 7" d="M16.626,0h-9a7.5,7.5,0,0,0-7.5,7.5v9a7.5,7.5,0,0,0,7.5,7.5h9a7.5,7.5,0,0,0,7.5-7.5v-9A7.5,7.5,0,0,0,16.626,0Zm5.25,16.5a5.256,5.256,0,0,1-5.25,5.25h-9a5.256,5.256,0,0,1-5.25-5.25v-9a5.256,5.256,0,0,1,5.25-5.25h9a5.256,5.256,0,0,1,5.25,5.25Z" fill="#fff"/>
+    <path id="Path_8" data-name="Path 8" d="M12.126,6a6,6,0,1,0,6,6A6,6,0,0,0,12.126,6Zm0,9.75A3.75,3.75,0,1,1,15.876,12,3.755,3.755,0,0,1,12.126,15.75Z" fill="#fff"/>
+    <path id="Path_9" data-name="Path 9" d="M18.576,6.35a.8.8,0,1,0-.8-.8A.8.8,0,0,0,18.576,6.35Z" fill="#fff"/>
+  </g>
+</svg>
